@@ -1,7 +1,7 @@
 ### Hello, World! I'm Mokshith 👋
 
 
-- 🤔 I’m looking for Full Time Software Engineering Roles
+- 👨‍💻 Currently a Design Engineer at Innominds Software Pvt. Ltd
 - 💻 I've worked as a Software Engineer Intern at [TapChief](https://www.tapchief.com/)
 - 👨‍🔬 I've worked as a Research Intern at IIT Ropar.
 - 🌱 I’m currently upskilling in Data Structures & Algorithms
